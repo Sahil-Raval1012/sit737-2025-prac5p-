@@ -1,0 +1,14 @@
+Step 1: Install Docker into the system.
+Step 2: Created an account.
+Step 3: In Github, Created a new repository and named it as sit737-2025-prac5p, now
+open Vs code.
+Step 4: In VS code open the terminal and type git init and create a remote for it.
+Step 5: Now make a new project in vs code and also make sure that we have installed
+Node and express environments in it.
+Step 6: Verified installation using the command docker –version.
+Step 7: Create a basic docker file.
+Step 8: Now will build the docker image.
+Step 9: We will also create a docker-compose file and add code there.
+Step 10: Push the Docker Image to a Registry
+Step 11: Now will add container for Health Check
+Step 12: Push to github repository.
